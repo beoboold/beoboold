@@ -1,7 +1,7 @@
 - 👋 Welcome you!
 - I’m Jin(Beomjin Kim)
 - 👀 I’m majoring ICS in Xi'an Jiaotong Liverpool University,Suzhou,China
-- 🌱 I’m currently learning Java, Python, and Flutter
+- 🌱 I’m currently learning Java, Python, Kotlin, Flutter, and Unity C#
 - 📫 How to reach me beomjin.kim17@student.xjtlu.edu.cn or beoboold@gmail.com
 
 <!---
